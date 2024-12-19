@@ -4,7 +4,7 @@ import close_btn from '../../assets/close-button.svg'
 import i_button from '../../assets/i_button.svg'
 import Layer_2 from '../../assets/Layer_2.png'
 
-const Modal = ({ isOpen, onClose, children }) => {
+const Modal = ({ isOpen, onClose}) => {
     if (!isOpen) return null;
   
     return (
