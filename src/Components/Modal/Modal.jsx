@@ -1,5 +1,5 @@
 import React from 'react'
-import './Modal.css'
+import './Modal.scss'
 import close_btn from '../../assets/close-button.svg'
 import i_button from '../../assets/i_button.svg'
 import Layer_2 from '../../assets/Layer_2.png'
